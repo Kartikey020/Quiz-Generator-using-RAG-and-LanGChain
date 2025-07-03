@@ -1,0 +1,25 @@
+# Streamlit UI
+streamlit
+
+# Google Gemini API
+google-generativeai
+
+# PDF parsing & creation
+PyPDF2
+fpdf
+pymupdf  # provides the 'fitz' module
+
+# LangChain core + community tools
+langchain
+langchain-community
+
+# Text splitting & vector database
+faiss-cpu
+
+# Embeddings and Transformers
+transformers
+sentence-transformers
+accelerate
+
+# Hugging Face pipeline support
+torch  # required for Flan-T5
