@@ -59,7 +59,7 @@ def generate_questions(chunks):
 
 # Gemini formatting
 
-genai.configure(api_key="AIzaSyD2eAxoxxC_J3ZMA-zbsS2qq3B1M1PY5fs")
+genai.configure(api_key="ENTER API KEY")
 model_gemini = genai.GenerativeModel("gemini-1.5-flash-latest")
 
 def format_quiz(mcqs, blanks, tfs):
